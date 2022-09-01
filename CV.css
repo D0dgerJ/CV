@@ -1,3 +1,2 @@
-p {
-    color: red;
-}
+.block-left{width:30%;height:800px;overflow:auto;float:left;}
+.block-right{width:70%;height:800px;overflow:auto;}
