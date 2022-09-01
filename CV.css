@@ -22,7 +22,7 @@ h4 {
     font-size: 30px;
   }
 .photo2 {
-     margin-top: 126px;
+     margin-top: 0px;
 }
 .block-left{width:30%;height:1200px;overflow:auto; background:gray; float:left;}
 .block-right{width:70%;height:1200px;overflow:auto; }
