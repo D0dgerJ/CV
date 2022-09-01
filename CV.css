@@ -10,7 +10,7 @@ h2 {
   }
 h3 {
     text-align: center;
-    stroke: black;
+    text-decoration: underline;
   }
 .block-left{width:30%;height:1200px;overflow:auto; background:gray; float:left;}
 .block-right{width:70%;height:1200px;overflow:auto; }
