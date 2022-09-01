@@ -1,5 +1,5 @@
 body{
     margin: 0
 }
-.block-left{width:30%;height:1200px;overflow:auto; background:gray; float:left;}
+.block-left{width:30%;height:1200px;overflow:auto; background:gray; float:left; padding-top: 20px}
 .block-right{width:70%;height:1200px;overflow:auto; }
