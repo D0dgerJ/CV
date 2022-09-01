@@ -8,5 +8,8 @@ h2 {
     display: block;
     margin: auto;
   }
+h3 {margin-left: 5px;
+
+  }
 .block-left{width:30%;height:1200px;overflow:auto; background:gray; float:left;}
 .block-right{width:70%;height:1200px;overflow:auto; }
