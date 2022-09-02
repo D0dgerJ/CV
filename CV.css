@@ -8,13 +8,20 @@ h1 {
     display: block;
     margin: auto;
   }
-p {
+h2 {
     text-align: center;
     font-size: 40px;
     text-decoration: underline;
     margin-block-start: 0em;
     margin-block-end: 0em;
   }
+p {
+    text-align: left;
+    margin-left: 10px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-size: 30px;
+}
 .photo2 {
      margin-top: 0px;
      margin-right: 0px;
