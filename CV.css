@@ -70,7 +70,7 @@ ul {
     position: absolute;              
     border-bottom: 1px solid #000;   
     top:50%;                        
-    right: 110px;                    
+    right: 210px;                    
 }
 .summary span:after {
     display: block;
@@ -79,5 +79,5 @@ ul {
     position: absolute;
     border-bottom: 1px solid #000;
     top:50%;
-    left: 110px; 
+    left: 210px; 
 }
