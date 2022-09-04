@@ -150,3 +150,31 @@ ul {
     top:50%;
     left: 230px; 
 }
+.edu {
+    text-align: center;  
+    width: 80%;          
+    margin: 0 auto;    
+    overflow: hidden;  
+}
+.edu span {
+    position: relative;
+    font-size: 50px
+}
+.edu span:before {
+    display: block;                  
+    width:1000px;                    
+    content: '';                   
+    position: absolute;              
+    border-bottom: 1px solid #000;   
+    top:50%;                        
+    right: 200px;                    
+}
+.edu span:after {
+    display: block;
+    width:1000px;
+    content: '';
+    position: absolute;
+    border-bottom: 1px solid #000;
+    top:50%;
+    left: 200px; 
+}
