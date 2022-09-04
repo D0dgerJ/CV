@@ -61,6 +61,7 @@ ul {
 }
 .summary span {
     position: relative;
+    font-size: 50px
 }
 .summary span:before {
     display: block;                  
