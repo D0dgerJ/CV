@@ -53,17 +53,17 @@ ul {
 
 .block-left{width:30%;height:1200px;overflow:auto; background:gray; float:left;}
 .block-right{width:70%;height:1200px;overflow:auto; }
-.skill {
+.summary .skill {
     text-align: center;  
     width: 80%;          
     margin: 0 auto;    
     overflow: hidden;  
 }
-.skill span {
+.summary .skill span {
     position: relative;
     font-size: 50px
 }
-.skill span:before {
+.summary .skill span:before {
     display: block;                  
     width:1000px;                    
     content: '';                   
@@ -72,7 +72,7 @@ ul {
     top:50%;                        
     right: 210px;                    
 }
-.skill span:after {
+.summary .skill span:after {
     display: block;
     width:1000px;
     content: '';
