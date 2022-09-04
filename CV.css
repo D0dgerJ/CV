@@ -139,7 +139,7 @@ ul {
     position: absolute;              
     border-bottom: 1px solid #000;   
     top:50%;                        
-    right: 210px;                    
+    right: 250px;                    
 }
 .exp span:after {
     display: block;
@@ -148,5 +148,5 @@ ul {
     position: absolute;
     border-bottom: 1px solid #000;
     top:50%;
-    left: 210px; 
+    left: 250px; 
 }
