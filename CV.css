@@ -88,3 +88,31 @@ ul {
     margin-block-end: 0em;
     font-size: 30px;
 }
+.skils {
+    text-align: center;  
+    width: 80%;          
+    margin: 0 auto;    
+    overflow: hidden;  
+}
+.skils span {
+    position: relative;
+    font-size: 50px
+}
+.skils span:before {
+    display: block;                  
+    width:1000px;                    
+    content: '';                   
+    position: absolute;              
+    border-bottom: 1px solid #000;   
+    top:50%;                        
+    right: 310px;                    
+}
+.skils span:after {
+    display: block;
+    width:1000px;
+    content: '';
+    position: absolute;
+    border-bottom: 1px solid #000;
+    top:50%;
+    left: 310px; 
+}
