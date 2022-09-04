@@ -116,3 +116,9 @@ ul {
     top:50%;
     left: 325px; 
 }
+.loading {
+    display: block;
+    margin: auto;
+    width:250px;
+    height:250px;
+}
