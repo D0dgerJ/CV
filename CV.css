@@ -128,7 +128,7 @@ ul {
     margin: 0 auto;    
     overflow: hidden;  
 }
-exp span {
+.exp span {
     position: relative;
     font-size: 50px
 }
