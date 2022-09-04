@@ -59,7 +59,33 @@ h5 {
     margin-block-start: 0em;
     margin-block-end: 0em; 
 }
-.line {
-    border-bottom: 3px solid rgb(0, 0, 0)
-    padding: 10px;
+.summary {
+    text-align: center;  
+    width: 80%;          
+    margin: 0 auto;    
+    overflow: hidden;  
+}
+.summary span {
+    position: relative;
+}
+.summary span:before {
+    display: block;                  
+    width:1000px;                    
+    content: '';                   
+    position: absolute;              
+    border-bottom: 1px solid #000;   
+    top:50%;                        
+    right: 110px;                    
+}
+ 
+/* аналогичные стили для второго псевдоэлемента */
+ 
+.summary span:after {
+    display: block;
+    width:1000px;
+    content: '';
+    position: absolute;
+    border-bottom: 1px solid #000;
+    top:50%;
+    left: 110px; 
 }
